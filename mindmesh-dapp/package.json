@@ -1,11 +1,11 @@
-{
+,{
   "name": "mindmesh-dapp",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "export": "next export"
+    "export": "next export",
     "start": "next start",
     "lint": "next lint",
     "clear": "rm -rf node_modules package-lock.json .next"
